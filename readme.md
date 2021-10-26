@@ -1,5 +1,5 @@
-# protocolcosmos
-**protocolcosmos** is a blockchain built using Cosmos SDK and Tendermint and created with [Starport](https://github.com/tendermint/starport).
+# protocol-cosmos
+**protocol-cosmos** is a blockchain built using Cosmos SDK and Tendermint and created with [Starport](https://github.com/tendermint/starport).
 
 ## Get started
 
