@@ -1,4 +1,6 @@
-mod bank;
+pub mod bank;
+pub mod anchor;
+pub mod linkable_tree;
 mod ibc;
 
 pub(crate) use self::bank::Bank;
